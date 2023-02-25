@@ -1,0 +1,5 @@
+Write the followings to the terminal:
+
+npm i axios
+cd .\react-quiz-main\
+npm run start
