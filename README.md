@@ -1,6 +1,6 @@
 # Quiz_App1
 Write the followings:
 
-npm i axios
-cd .\react-quiz-main\
-npm run start
+1) npm i axios
+2) cd .\react-quiz-main\
+3)npm run start
